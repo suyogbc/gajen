@@ -1,6 +1,6 @@
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 import { ModeToggle } from "@/components/ModeToggle";
-import { Facebook, Twitter } from "lucide-react";
+import { Facebook, Linkedin, Twitter } from "lucide-react";
 import Image from "next/image";
 
 export default function Home() {
@@ -10,7 +10,7 @@ export default function Home() {
         <div className="flex flex-col mx-auto py-2 sm:py-20 items-center justify-center">
           <h1 className="text-3xl font-bold">Gajendra Budhathoki</h1>
           <p className="mt-2 text-xl text-muted-foreground">
-            Journalist | Economic Analyst
+            Journalist | Economic Analyst | Motivation Speaker
           </p>
           <div className="flex gap-2 mt-2 p-2">
             <a href="https://www.x.com/gbudhathoki">
@@ -18,6 +18,9 @@ export default function Home() {
             </a>
             <a href="https://www.facebook.com/gajendra">
               <Facebook />
+            </a>
+            <a href="https://www.linkedin.com/in/gajendra-budhathoki-000b3338/">
+              <Linkedin />
             </a>
           </div>
           <Image
