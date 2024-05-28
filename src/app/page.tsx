@@ -35,16 +35,14 @@ export default function Home() {
           <div>
             <a
               href="https://taksarnews.com/2024/05/28058/"
-              className="flex flex-col items-center justify-center gap-4 border border-gray-800 p-2 rounded-sm dark:border-gray-200"
+              className="m-2 flex flex-col items-center justify-center gap-4 border border-gray-800 p-2 rounded-sm dark:border-gray-200"
             >
               <Image src="/taksar.jpg" width={200} height={100} alt="magzine" />
               अर्बपति मन्त्रीहरूको देशमा ७२ प्रतिशत नेपालीको पीडा
             </a>
-          </div>
-          <div>
             <a
               href="https://taksarnews.com/2024/05/28058/"
-              className="flex flex-col items-center justify-center gap-4 border border-gray-800 p-2 rounded-sm dark:border-gray-200"
+              className="m-2 flex flex-col items-center justify-center gap-4 border border-gray-800 p-2 rounded-sm dark:border-gray-200"
             >
               <Image src="/taksar.jpg" width={200} height={100} alt="magzine" />
               बर्कनदास सरकारको बजेटका अपेक्षा
