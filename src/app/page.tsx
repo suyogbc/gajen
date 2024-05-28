@@ -10,7 +10,7 @@ export default function Home() {
         <div className="flex flex-col mx-auto py-2 sm:py-20 items-center justify-center">
           <h1 className="text-3xl font-bold">Gajendra Budhathoki</h1>
           <p className="mt-2 text-xl text-muted-foreground">
-            Journalist | Economic Analyst | Motivation Speaker
+            Journalist | Economic Analyst | Motivational Speaker
           </p>
           <div className="flex gap-2 mt-2 p-2">
             <a href="https://www.x.com/gbudhathoki">
